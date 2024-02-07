@@ -1,1 +1,1 @@
-# Galaxy---A-movie-collection-rect-application
+# Galaxy---A-movie-collection-react-application
