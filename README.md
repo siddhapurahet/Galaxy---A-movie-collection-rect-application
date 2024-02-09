@@ -7,6 +7,7 @@
 &nbsp; -> Get movies and TV show <br>
 &nbsp; -> Watch the trailer of particular movie <br>
 
+Note: The code is in the other branch --> ( my-branch )
 <br>
 --> Preview of the application: <br>
 &nbsp; -> Image showing the home page of the application
